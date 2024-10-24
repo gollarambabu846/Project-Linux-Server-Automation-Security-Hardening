@@ -209,3 +209,8 @@ Why is This Important?
 Improved Security: Hardening ensures the system is resistant to common attacks.
 Efficiency: Automating these tasks ensures they are applied consistently across multiple systems without human error.
 Compliance: Many industries require systems to meet certain security standards, and automation helps ensure that servers comply with these requirements.
+
+
+
+![output](https://github.com/user-attachments/assets/8fbee4c2-a413-420d-adb9-448745e13b0c)
+
